@@ -2,7 +2,7 @@
 
 Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase para o Back-End nas plataformas .NET e Java.
 <div>
-  <a href="" style="display: inline_block">
+  <a href="https://www.linkedin.com/in/eduardo-cesar-prudencio/" style="display: inline_block">
  <img align="center" alt"net" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
