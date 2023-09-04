@@ -2,7 +2,8 @@
 
 Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase para o Back-End nas plataformas .NET e Java.
 
-<div><p style="text-color: rgb(50,50,50)">Hi, my name is Eduardo and I'm a Full Stack developer, currently focused on the Back-End on .NET and Java platforms.</p></div>
+`Hi, my name is Eduardo and I'm a Full Stack developer, currently focused on the Back-End on .NET and Java platforms.`
+
 
 <div>
   <a href="https://www.linkedin.com/in/eduardo-cesar-prudencio/" style="display: inline_block">
@@ -10,7 +11,7 @@ Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase
 </a>
 </div>
 
-### Tecnologias
+### Tecnologias `Technologies`
 
 <div style="display: inline_block">
   <img align="center" alt"net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -23,14 +24,22 @@ Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase
   <img align="center" alt"flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
-### Experiências
+### Experiências `Experiences`
 
-#### Profissional
+#### Profissional `Professional`
+
 Atualmente trabalho no Banco Bradesco como Desenvolvedor e Tech Lead das plataformas de Acesso, Autenticação e Autorização nas plataformas Mainframe (COBOL CICS/IMS/BATCH) e de Microsserviços Java Rest nas Clouds Microsoft Azure e IBM TI Hibrida.
+`Currently I work at Bradesco Bank as a Developer and a Tech Lead of the Access, Autentication and Authorization platforms with Mainframe (COBOL CICS/IMS/BATCH) and Microservices (Java on Microsoft Azure and IBM TI Hibrida Clouds) applications.`
 
-#### Acadêmica
+#### Acadêmica `Academic`
+
 - Pós graduando no curso MBA em Aquitetura e Desenvolvimento na plataforma .NET na FIAP.
+- `Ongoing postgraduate course in the MBA course in Architecture and Development on the .NET Platform at FIAP`
 - Técnologo em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Carapicuíba (FATEC).
+- `Technologist in Systems Analysis and Development from the "Faculdade de Tecnologia de Carapicuíba (FATEC)".`
   - Participante do X Simgetec do Centro Paula Souza com um projeto voltado a Plataformas de Ensino Digital.
+  - `Participant in the 10th Simgetec at "Centro Paula Souza" with a project on Digital Learning Platforms.`
 - Técnico em Informática pelo Instituto Técnico de Barueri.
-  - Apresentador na ExpoTec 2018 com um projeto de gerenciamento de óticas desenvolvido em Windows Forms/Oracle.
+- `Computer Technician at "Instituto Técnico de Barueri"`
+  - Apresentador na ExpoTec 2018 com um projeto de gerenciamento de óticas, desenvolvido em Windows Forms/Oracle.
+  - `Presenter at ExpoTec 2018 with a Glasses Store management project, developed in Widows Forms/Oracle.`
