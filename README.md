@@ -31,6 +31,9 @@ Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase
 Atualmente trabalho no Banco Bradesco como Desenvolvedor e Tech Lead das plataformas de Acesso, Autenticação e Autorização nas plataformas Mainframe (COBOL CICS/IMS/BATCH) e de Microsserviços Java Rest nas Clouds Microsoft Azure e IBM TI Hibrida.
 `Currently I work at Bradesco Bank as a Developer and a Tech Lead of the Access, Autentication and Authorization platforms with Mainframe (COBOL CICS/IMS/BATCH) and Microservices (Java on Microsoft Azure and IBM TI Hibrida Clouds) applications.`
 
+Entre 2019 e 2021 participei de um programa de estágio no Centro de Desenvolvimento do Departamento de Sistemas do Bradesco com ênfase em desenvolvimento nas linguagens COBOL (CICS/IMS/BATCH) e Java (JSF/Primefaces) e gerenciamento de projetos utilizando metodologia ágil e TDD (Test Driven Development).
+`Between 2019 and 2021 I participated in an internship program on the Development Center of Bradesco Systems Department focused on development using COBOL (CICS/IMS/BATCH) and Java (JSF/Primefaces) languages and project management using agile methodology and TDD (Test Driven Development)`
+
 #### Acadêmica `Academic`
 
 - Pós graduando no curso MBA em Aquitetura e Desenvolvimento na plataforma .NET na FIAP.
