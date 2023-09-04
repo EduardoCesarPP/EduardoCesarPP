@@ -1,6 +1,9 @@
 ### Eduardo Cesar
 
 Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase para o Back-End nas plataformas .NET e Java.
+
+<div><p style="text-color: rgb(50,50,50)">Hi, my name is Eduardo and I'm a Full Stack developer, currently focused on the Back-End on .NET and Java platforms.</p></div>
+
 <div>
   <a href="https://www.linkedin.com/in/eduardo-cesar-prudencio/" style="display: inline_block">
  <img align="center" alt"net" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
