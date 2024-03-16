@@ -47,8 +47,8 @@ Entre 2019 e 2021 participei de um programa de estágio no Centro de Desenvolvim
   - Apresentador na ExpoTec 2018 com um projeto de gerenciamento de óticas, desenvolvido em Windows Forms/Oracle.
   - `Presenter at ExpoTec 2018 with a Glasses Store management project, developed in Widows Forms/Oracle.`
  
-  #### Certificações `Certifications`
+#### Certificações `Certifications`
 
-  - AZ-900 Microsoft Azure Fundamentals
-    - ID da Credencial: `Credential ID` [E789FCF3A515D85](https://learn.microsoft.com/api/credentials/share/pt-br/EduardoPrudencio-5917/E789FCF3A515D85?sharingId=625245C677252E03)
-    - Obtido em: 6 de novembro de 2023 `Earned on: November 6, 2023`
+- AZ-900 Microsoft Azure Fundamentals
+  - ID da Credencial: `Credential ID` [E789FCF3A515D85](https://learn.microsoft.com/api/credentials/share/pt-br/EduardoPrudencio-5917/E789FCF3A515D85?sharingId=625245C677252E03)
+  - Obtido em: 6 de novembro de 2023 `Earned on: November 6, 2023`
