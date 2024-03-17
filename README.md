@@ -6,9 +6,9 @@ Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase
 
 
 <div>
-  <a href="https://www.linkedin.com/in/eduardo-cesar-prudencio/" style="display: inline_block">
- <img align="center" alt"net" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/eduardo-cesar-prudencio/">
+    <img align="center" alt"net" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ### Tecnologias `Technologies`
@@ -46,9 +46,10 @@ Entre 2019 e 2021 participei de um programa de estágio no Centro de Desenvolvim
 - `Computer Technician at "Instituto Técnico de Barueri"`
   - Apresentador na ExpoTec 2018 com um projeto de gerenciamento de óticas, desenvolvido em Windows Forms/Oracle.
   - `Presenter at ExpoTec 2018 with a Glasses Store management project, developed in Widows Forms/Oracle.`
- 
-#### Certificações `Certifications`
 
-- AZ-900 Microsoft Azure Fundamentals
-  - ID da Credencial: `Credential ID` [E789FCF3A515D85](https://learn.microsoft.com/api/credentials/share/pt-br/EduardoPrudencio-5917/E789FCF3A515D85?sharingId=625245C677252E03)
-  - Obtido em: 6 de novembro de 2023 `Earned on: November 6, 2023`
+<div>
+  <br>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/EduardoPrudencio-5917/E789FCF3A515D85?sharingId=625245C677252E03">
+    <img style="width: 90px; margin-left: 50px" align="center" alt"net" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"/>
+  </a>
+</div>
