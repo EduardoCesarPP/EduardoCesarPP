@@ -47,9 +47,13 @@ Entre 2019 e 2021 participei de um programa de estágio no Centro de Desenvolvim
   - Apresentador na ExpoTec 2018 com um projeto de gerenciamento de óticas, desenvolvido em Windows Forms/Oracle.
   - `Presenter at ExpoTec 2018 with a Glasses Store management project, developed in Widows Forms/Oracle.`
 
+#### Certificações `Certifications`
+
 <div>
-  <br>
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/EduardoPrudencio-5917/E789FCF3A515D85?sharingId=625245C677252E03">
+   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/EduardoPrudencio-5917/E789FCF3A515D85?sharingId=625245C677252E03">
     <img style="width: 90px; margin-left: 50px" align="center" alt"net" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/EduardoPrudencio-5917/564FC244B159A66F?sharingId=625245C677252E03">
+    <img style="width: 90px; margin-left: 50px" align="center" alt"net" src="https://dirceuresende.com/wp-content/uploads/2022/08/azure-data-fundamentals-600x600-1.png"/>
   </a>
 </div>
