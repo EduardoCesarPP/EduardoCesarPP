@@ -17,6 +17,7 @@ Olá, me chamo Eduardo e sou um desenvolvedor Full Stack, atualmente com ênfase
   <img align="center" alt"net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt"c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt"spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/>
   <img align="center" alt"android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img align="center" alt"html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt"css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -36,8 +37,8 @@ Entre 2019 e 2021 participei de um programa de estágio no Centro de Desenvolvim
 
 #### Acadêmica `Academic`
 
-- Pós graduando no curso MBA em Aquitetura e Desenvolvimento na plataforma .NET na FIAP.
-- `Ongoing postgraduate course in the MBA course in Architecture and Development on the .NET Platform at FIAP`
+- Pós graduado no curso MBA em Aquitetura e Desenvolvimento na plataforma .NET na FIAP.
+- `Master in Business Administration for Architecture and Development on the .NET Platform at FIAP`
 - Técnologo em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Carapicuíba (FATEC).
 - `Technologist in Systems Analysis and Development from the "Faculdade de Tecnologia de Carapicuíba (FATEC)".`
   - Participante do X Simgetec do Centro Paula Souza com um projeto voltado a Plataformas de Ensino Digital.
